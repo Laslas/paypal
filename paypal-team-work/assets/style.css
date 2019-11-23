@@ -1,0 +1,61 @@
+
+* {
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+body {
+    background: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.wrapper {}
+
+.container {
+    width: 1170px;
+    margin: 0 auto;
+}
+
+/* All the Header CSS */
+
+
+
+/* All the Services CSS */
+
+
+
+/* All the Users CSS */
+#join {
+    width: 100vw;
+    background-color: #009cde;
+    color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+}
+
+.join_title {
+    line-height: 48px;
+    font-size: 40px; 
+}
+
+#cols {
+    display: flex;
+    justify-content: space-around;
+}
+
+.span__text {
+    display: inline-block;
+    font-size: 16px;
+    width: 256px;
+    padding: 0, 0, 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+}
+
+
+
+
+/* All the Footer CSS */
